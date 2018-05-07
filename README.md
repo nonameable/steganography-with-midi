@@ -7,7 +7,7 @@ There are multiple ways to hide information in a MIDI file so that it is not
 noticeable to the human ear. 
 
 Both modules make use of the python-midi libraries located 
-here: https://raw.githubusercontent.com/vishnubob/python-midi
+here: https://github.com/vishnubob/python-midi
 ## Features
 
 * A module to hide information
@@ -19,7 +19,7 @@ here: https://raw.githubusercontent.com/vishnubob/python-midi
 The code is written in Python 2.7. You must have Python 2.x installed in your machine or in a
 conda environment. You could also use a virtual environment. That is up to you.
 
-As said before, you must install in your environment https://raw.githubusercontent.com/vishnubob/python-midi.
+As said before, you must install in your environment https://github.com/vishnubob/python-midi.
  They have instructions for that on their repo.
 
 After everything is set up, to run it you need to be in the same directory as midistegano.py. Then you should
