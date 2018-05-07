@@ -1,4 +1,4 @@
-# steganos-with-midi=
+# steganos-with-midi
 
 Python, for all its amazing ability out of the box, does not provide you with
 an easy means to hide information in MIDI files. This is an attempt to do just that.
@@ -20,7 +20,7 @@ The code is written in Python 2.7. You must have Python 2.x installed in your ma
 conda environment. You could also use a virtual environment. That is up to you.
 
 As said before, you must install in your environment https://raw.githubusercontent.com/vishnubob/python-midi.
-The have instructions for that on their repo.
+ They have instructions for that on their repo.
 
 After everything is set up, to run it you need to be in the same directory as midistegano.py. Then you should
 place two different files in that same directory

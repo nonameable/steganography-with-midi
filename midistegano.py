@@ -23,7 +23,7 @@ if intention=="-hide":
                 hider.hide(midi_file_name,message)
                 print "The output file name will be: " "secret_in_"+ midi_file_name  
         else:
-            print "You must put the message file in the same directory as run.py" 
+            print "You must put the message file in the same directory as midistegano.py" 
 
         
     else:
